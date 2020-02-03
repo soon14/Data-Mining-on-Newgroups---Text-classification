@@ -1,0 +1,287 @@
+Task 1.1 (a)
+Number of rows in train_df = 1079
+Number of rows in test_df = 717
+
+Task 1.1 (b)
+First 5 rows of 'INDEXED' test set 
+
+Row-0
+0, alt.atheism, From: sandvik@newton.apple.com (Kent Sandvik)
+Subject: Re: some thoughts.
+Organization: Cookamunga Tourist Bureau
+Lines: 31
+
+In article <C5rEyF.4CE@darkside.osrhe.uoknor.edu>, bil@okcforum.osrhe.edu
+(Bill Conner) wrote:
+> Kent Sandvik (sandvik@newton.apple.com) wrote:
+> : In article <11838@vice.ICO.TEK.COM>, bobbe@vice.ICO.TEK.COM (Robert
+> : Beauchaine) wrote:
+> : >   Someone spank me if I'm wrong, but didn't Lord, Liar, or Lunatic
+> : >   originate with C.S. Lewis?  Who's this Campollo fellow anyway?
+> 
+> : I do think so, and isn't there a clear connection with the "I do
+> : believe, because it is absurd" notion by one of the original
+> : Christians (Origen?).
+> 
+> There is a similar statement attributed to Anselm, "I believe so that
+> I may understand". In both cases reason is somewhat less exalted than
+> anyone posting here could accept, which means that neither statement
+> can be properly analysed in this venue.
+
+Bill, I think you have a misunderstanding about atheism. Lack of 
+belief in God does not directly imply lack of understanding
+transcendental values. I hope you would accept the fact that 
+for instance Buddhists appreciate issues related to non-empirical
+reasoning without the need to automatically believe in theism.
+
+I think reading a couple of books related to Buddhism might 
+revise and fine tune your understanding of non-Christian systems.
+
+Cheers,
+Kent
+
+---
+sandvik@newton.apple.com. ALink: KSAND -- Private activities on the net.
+
+
+Row-1
+1, alt.atheism, From: kempmp@phoenix.oulu.fi (Petri Pihko)
+Subject: Re: Christian Morality is
+Organization: University of Oulu, Finland
+X-Newsreader: TIN [version 1.1 PL9]
+Lines: 107
+
+Dan Schaertel,,, (dps@nasa.kodak.com) wrote:
+> In article 21627@ousrvr.oulu.fi, kempmp@phoenix.oulu.fi (Petri Pihko) writes:
+
+> |>I love god just as much as she loves me. If she wants to seduce me,
+> |>she'll know what to do. 
+
+> But if He/She did you would probably consider it rape.  
+
+Of course not. I would think that would be great _fun_, not having ever
+felt the joy and peace the Christians speak of with a longing gaze.
+This is not what I got when I believed - I just tried to hide my fear
+of getting punished for something I never was sure of. The Bible is
+hopelessly confusing for someone who wants to know for sure. God did
+not answer. In the end, I found I had been following a mass delusion,
+a lie. I can't believe in a being who refuses to give a slightest hint
+of her existence.
+
+> Obviously there are many Christians who have tried and do believe. So .. ?
+
+I suggest they should honestly reconsider the reasons why they believe
+and analyse their position. In fact, it is amusing to note in this
+context that many fundamentalist publications tell us exactly the
+opposite - one should not examine one's belief critically.
+
+I'll tell you something I left out of my 'testimony' I posted to this
+group two months ago. A day after I finally found out my faith is over,
+I decided to try just one more time. The same cycle of emotional
+responses fired once again, but this time the delusion lasted only
+a couple of hours. I told my friend in a phone that it really works,
+thank god, just to think about it again when I hung up. I had to admit
+that I had lied, and fallen prey to the same illusion.
+
+> No one asks you to swallow everything, in fact Jesus warns against it.   But let
+> me ask you a question.  Do you beleive what you learn in history class, or for
+> that matter anything in school.  I mean it's just what other people have told
+> you and you don't want to swallow what others say. right ... ?
+
+I used to believe what I read in books when I was younger, or what
+other people told me, but I grew more and more skeptical the more I
+read. I learned what it means to use _reason_.
+
+As a student of chemistry, I had to perform a qualitative analysis
+of a mixture of two organic compounds in the lab. I _hated_ experiments
+like this - they are old-fashioned and increase the student's workload
+considerably. Besides, I had to do it twice, since I failed in my first
+attempt. However, I think I'll never forget the lesson: 
+
+No matter how strongly you believe the structure of the unknown is X,
+it may still be Y. It is _very_ tempting to jump into conclusions, take
+a leap of faith, assure oneself, ignore the data which is inconsistent. 
+But it can still be wrong. 
+
+I found out that I was, after all, using exactly the same mechanism
+to believe in god - mental self-assurance, suspension of fear, 
+filtering of information. In other words, it was only me, no god
+playing any part. 
+
+> The life , death, and resurection of Christ is documented historical fact.
+
+Oh? And I had better believe this? Dan, many UFO stories are much better
+documented than the resurrection of Jesus. The resurrection is documented
+quite haphazardly in the Bible - it seems the authors did not pay too
+much attention to which wild rumour to leave out. Besides, the ends of
+the gospels probably contain later additions and insertions; for instance,
+the end of Mark (16:9-20) is missing from many early texts, says my Bible.
+
+Jesus may have lived and died, but he was probably misunderstood.
+
+> As much
+> as anything else you learn.  How do you choose what to believe and 
+> what not to?
+
+This is easy. I believe that the world exists independent of my mind,
+and that logic and reason can be used to interpret and analyse what I
+observe. Nothing else need to be taken on faith, I will go by the
+evidence. 
+
+It makes no difference whether I believe George Washington existed or not.
+I assume that he did, considering the vast amount of evidence presented.
+
+> There is no way to get into a sceptical heart.  You can not say you have 
+> given a 
+> sincere effort with the attitude you seem to have.  You must TRUST, 
+> not just go 
+> to church and participate in it's activities.  Were you ever willing to
+> die for what you believed?  
+
+A liar, how do you know what my attitude was? Try reading your Bible
+again. 
+
+I was willing to die for my faith. Those who do are usually remembered
+as heroes, at least among those who believe. Dan, do you think I'm
+lying when I say I believed firmly for 15 years? It seems it is 
+very difficult to admit that someone who has really believed does not
+do so anymore. But I can't go on lying to myself.
+
+Blind trust is dangerous, and I was just another blind led by the blind.
+But if god really wants me, she'll know what to do. I'm willing. I just
+don't know whether she exists - looking at the available evidence,
+it looks like she doesn't. 
+
+Petri
+--
+ ___. .'*''.*        Petri Pihko    kem-pmp@          Mathematics is the Truth.
+!___.'* '.'*' ' .    Pihatie 15 C    finou.oulu.fi    Physics is the Rule of
+       ' *' .* '*    SF-90650 OULU  kempmp@           the Game.
+          *'  *  .*  FINLAND         phoenix.oulu.fi  -> Chemistry is The Game.
+
+
+Row-2
+2, alt.atheism, From: rsrodger@wam.umd.edu (Yamanari)
+Subject: Re: Asimov stamp
+Nntp-Posting-Host: rac2.wam.umd.edu
+Organization: University of Maryland, College Park
+Lines: 23
+
+In article <schnitzi.735603785@eustis> schnitzi@eustis.cs.ucf.edu (Mark Schnitzius) writes:
+>battin@cyclops.iucf.indiana.edu (Laurence Gene Battin) writes:
+>
+>>Apart from the suggestion that appeared in the letters column of
+>>Skeptical Inquirer recently, has there been any further mention
+>>about a possible Asimov commemorative stamp?  If this idea hasn't
+>>been followed up, does anyone know what needs to be done to get
+>>this to happen?  I think that its a great idea.  Should we start a
+>>petition or something?
+>
+>I'm sure all the religious types would get in a snit due
+>to Asimov's atheism.
+>
+>Do we have any atheists on stamps now?
+
+
+	More to the point, how long are atheists going to be insulted
+	by the disgraceful addition of religious blah-blah to our 
+	money and out pledge?
+-- 
+	"What's big, noisy and has an IQ of 8?"
+
+	"Operation Rescue."
+
+
+Row-3
+3, alt.atheism, From: I3150101@dbstu1.rz.tu-bs.de (Benedikt Rosenau)
+Subject: Re: Islam And Scientific Predictions (was Re: Genocide is Caused by Atheism)
+Organization: Technical University Braunschweig, Germany
+Lines: 20
+
+In article <1993Apr19.231641.21652@monu6.cc.monash.edu.au>
+darice@yoyo.cc.monash.edu.au (Fred Rice) writes:
+ 
+(Deletion)
+>"(God is) the One Who created the night, the day, the sun and the moon.
+>Each is travelling in an orbit with its own motion." (Qur'an :33)
+>
+>The positive aspect of this verse noted by Dr. Maurice Bucaille is that
+>while geocentrism was the commonly accepted notion at the time (and for
+>a long time afterwards), there is no notion of geocentrism in this verse
+>(or anywhere in the Qur'an).
+>
+ 
+Well, that is certainly different, but it looks as if there is a translation
+found for everything. By the way, I am most surprised to hear that night and
+day move in an orbit.
+ 
+And that the sun travels in an orbit without saying that earth does, too,
+sounds geocentric to me.
+   Benedikt
+
+
+Row-4
+4, alt.atheism, From: bcash@crchh410.NoSubdomain.NoDomain (Brian Cash)
+Subject: Re: free moral agency
+Nntp-Posting-Host: crchh410
+Organization: BNR, Inc.
+Lines: 17
+
+In article <735295730.25282@minster.york.ac.uk>, cjhs@minster.york.ac.uk writes:
+|> : Are you saying that their was a physical Adam and Eve, and that all
+|> : humans are direct decendents of only these two human beings.?  Then who
+|> : were Cain and Able's wives?  Couldn't be their sisters, because A&E
+|> : didn't have daughters.  Were they non-humans?
+|> 
+|> Genesis 5:4
+|> 
+|> and the days of Adam after he begat Seth were eight hundred years, and
+|> he begat sons and daughters:
+|> 
+|> Felicitations -- Chris Ho-Stuart
+
+Yeah, but these were not the wives.  The wives came from Nod, apparently
+a land being developed by another set of gods.
+
+Brian /-|-\
+
+
+
+Task 1.2 (a)
+F1 score: 0.9483960948396095
+Task 1.2 (b)
+Column Name: id, Type: bigint
+Column Name: category, Type: string
+Column Name: text, Type: string
+Column Name: label, Type: double
+Column Name: words, Type: array<string>
+Column Name: rawFeatures, Type: vector
+Column Name: features, Type: vector
+Column Name: rawPrediction, Type: vector
+Column Name: probability, Type: vector
+Column Name: prediction, Type: double
+
+Task 1.3
+Id: 0, Actual Category: alt.atheism, Predicted Category: atheism, Probability: [6.27318353598026e-05,0.9999372681646402], Explanation List: [('newton', 0.014537242448107245), ('Sandvik', 0.013919232041866935), ('apple', 0.013906759268698622), ('KSAND', 0.013878604450578192), ('sandvik', 0.01325606598283638), ('TEK', 0.012979893955432743)]
+Id: 275, Actual Category: alt.atheism, Predicted Category: christian, Probability: [0.5204664796726283,0.4795335203273718], Explanation List: [('expertise', -0.2068901077439985), ('hadith', 0.20615395798418537), ('discussion', -0.17890353864538447), ('Qur', 0.13636192112068315), ('Rashid', 0.1165077893840995), ('Knowledge', -0.11250507626738625)]
+Id: 664, Actual Category: soc.religion.christian, Predicted Category: christian, Probability: [0.999515272012249,0.000484727987751043], Explanation List: [('whitsebd', -0.017260369636211678), ('Bryan', -0.016665599972913628), ('rutgers', -0.015975548793265695), ('hulman', -0.015182396837777341), ('Hulman', -0.014943334873406468), ('nextwork', -0.0148397918372522)]
+
+
+Task 2
+
+Strategy:
+Step-1:
+We have identified the words which contributed towards misclassified documents. Using weights/count as measure, we will remove the misclassified words which contributed to a decrease in accuracy of the model. Along with this, we have the words in a sorted order in descending order starting with words whcih misclassified the most number of documents.
+We can put the top 13 words in a list that had contributed the most towards misclassified document
+
+Step-2:
+Create a new column called 'text1' from text with the use of user defined function - udf. Rename this column to 'text' later
+
+Step-3:
+After making these modifications, we can observe that we get a better accuracy as we have optimized the model
+
+We can say that words that contributed to multiple misclassified documents contributed for the decrease of the precision of the model - Without loss of generality (WLOG)
+After removing some of these words we reduce our rate of false positive (FPR) and false negatives (FNR) which will contribute to the increase in the F1 score
+
+New Accuracy after Feature Engineering: 0.9595536959553695
+Document ID's that are classified correctly after feature selection (which were misclassified before): [165, 121, 288, 81, 160, 271, 259, 258, 275]
